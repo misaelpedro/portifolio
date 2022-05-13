@@ -20,6 +20,6 @@ Sou graduado em Engenharia mecânica pela Universidade Salvador e estou finaliza
 ## Projetos:
 
 * **Implementação do algoritmo KNN:** https://bit.ly/3N9uxqZ
-* **Análise de dados socio-econômicos de países:** https://bit.ly/3st2VFu
+* **Análise de dados socio-econômicos de países utilizando técnicas de clustering :** https://bit.ly/3st2VFu
 * **Exemplo de modelagem de um banco de dados relacional:** https://bit.ly/3MieLKI
 * **Processo de ETL e criação de Dashboard com PowerBI:** https://bit.ly/39YJspV
