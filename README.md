@@ -5,11 +5,11 @@
 </p>
 
 # Misael Conceição
-<sub>*Engenheiro Mecânico - Especialista em Ciência de Dados*</sub>
+<sub>*Engenheiro Mecânico - Pós-graduando em Ciência de Dados*</sub>
 
-Como engenheiro tenho conhecimento na área mecânica e experiência em projetos de controle de qualidade, atualmente estudo e busco oportunidades relacionadas a ciência e análise de dados. Atuando em qualidade trabalhei com análise de dados objetivando identificar pontos de melhoria e anomalias nos produtos da Cia, assim como colaborando com o time para desenvolvimento e acompanhando de projetos através da metodologia Lean Six Sigma — DMAIC.
+Como engenheiro tenho conhecimento na área mecânica e experiência em projetos de controle de qualidade, atualmente estudo e busco oportunidades relacionadas a ciência e análise de dados. Atuando em qualidade trabalhei com análise de dados objetivando identificar pontos de melhoria e anomalias nos produtos da Cia, colaborando com o time no desenvolvimento e acompanhamento de projetos através da metodologia Lean Six Sigma — DMAIC.
 
-Sou graduado em Engenharia mecânica pela Universidade Salvador e estou finalizando uma especialização em Ciência e Análise de dados pelos SENAI — CIMATEC instituição amplamente reconhecida nas áreas de Manufatura e tecnologia. Pensamento crítico e capacidade analítica são 2 das habilidades que venho desenvolvendo. 
+Sou graduado em Engenharia mecânica pela Universidade Salvador e estou finalizando uma especialização em Ciência e Análise de dados pelo SENAI — CIMATEC instituição amplamente reconhecida nas áreas de Manufatura e Tecnologia. Somando as experiências vividas desenvolvo e aprimoro habilidades ligadas a resolução de problemas, como: resiliência que me permite enxergar novas possibilidades e ideias a partir de experiências de erro ou mudança, e senso de prioridade facilitando estabelecer links entre diversas informações e priorizar tarefas para dedicar tempo e energia naquilo que vai resolver o problema.  
 
 
 **Áreas de conhecimento:** Python, Machine Learning, Engenharia de Qualidade e Engenharia Mecânica. 
