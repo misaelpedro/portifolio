@@ -23,4 +23,5 @@ Sou graduado em Engenharia mecânica pela Universidade Salvador e estou finaliza
 * **Análise de dados socio-econômicos de países utilizando técnicas de clustering :** https://bit.ly/3st2VFu
 * **Exemplo de modelagem de um banco de dados relacional:** https://bit.ly/3MieLKI
 * **Processo de ETL e criação de Dashboard com PowerBI:** https://bit.ly/39YJspV
-* **Classificando imagens do CIFAR-10 com Redes Convolucionais:** https://bit.ly/3Ry34SZ
+* **Classificando imagens do CIFAR-10 com Redes Convolucionais (PyTorch):** https://bit.ly/3Ry34SZ
+* **Visualizando feature maps de uma rede Convolucional (PyTorch):** https://bityli.com/7uLkcH
