@@ -25,3 +25,5 @@ Sou graduado em Engenharia mecânica pela Universidade Salvador e estou finaliza
 * **Processo de ETL e criação de Dashboard com PowerBI:** https://bit.ly/39YJspV
 * **Classificando imagens do CIFAR-10 com Redes Convolucionais (PyTorch):** https://bit.ly/3Ry34SZ
 * **Visualizando feature maps de uma rede Convolucional (PyTorch):** https://bit.ly/3JOv56Y
+* **Manipulação e melhoria de imagem utilizando OpenCV:** https://bit.ly/3TpsrI6
+
