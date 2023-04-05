@@ -21,8 +21,8 @@ Sou graduado em Engenharia mecânica pela Universidade Salvador e estou finaliza
 
 * **Implementação do algoritmo KNN:** https://bit.ly/3N9uxqZ
 * **Análise de dados socio-econômicos de países utilizando técnicas de clustering :** https://bit.ly/3st2VFu
-* **Exemplo de modelagem de um banco de dados relacional:** https://bit.ly/3MieLKI
-* **Processo de ETL e criação de Dashboard com PowerBI:** https://bit.ly/39YJspV
+* **Exemplo de modelagem de um banco de dados relacional(MySQL):** https://bit.ly/3MieLKI
+* **ETL de dados com Pentaho e criação de Dashboard com PowerBI:** https://bit.ly/3K63HA8
 * **Classificando imagens do CIFAR-10 com Redes Convolucionais (PyTorch):** https://bit.ly/3Ry34SZ
 * **Visualizando feature maps de uma rede Convolucional (PyTorch):** https://bit.ly/3JOv56Y
 * **Manipulação e melhoria de imagem utilizando OpenCV:** https://bit.ly/3TpsrI6
