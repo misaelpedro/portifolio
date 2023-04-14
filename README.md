@@ -26,4 +26,4 @@ Sou graduado em Engenharia mecânica pela Universidade Salvador e estou finaliza
 * **Classificando imagens do CIFAR-10 com Redes Convolucionais (PyTorch):** https://bit.ly/3Ry34SZ
 * **Visualizando feature maps de uma rede Convolucional (PyTorch):** https://bit.ly/3JOv56Y
 * **Manipulação e melhoria de imagem utilizando OpenCV:** https://bit.ly/3TpsrI6
-
+* **Previsão de Série Temporal utilizando Multi layer perceptron (MLP):** https://bit.ly/43AAt5k
