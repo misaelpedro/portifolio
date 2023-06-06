@@ -27,3 +27,4 @@ Sou graduado em Engenharia mecânica pela Universidade Salvador e estou finaliza
 * **Visualizando feature maps de uma rede Convolucional (PyTorch):** https://bit.ly/3JOv56Y
 * **Manipulação e melhoria de imagem utilizando OpenCV:** https://bit.ly/3TpsrI6
 * **Previsão de Série Temporal utilizando Multi layer perceptron (MLP):** https://bit.ly/43AAt5k
+* **Painel interativo no PowerBI para monitorar e analisar as vendas do e-commerce:** https://bit.ly/3OSvCYx
